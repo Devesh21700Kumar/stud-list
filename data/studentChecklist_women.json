@@ -483,56 +483,8 @@
     ]
   },
   {
-    "categoryName": "Documents, Electronics & Health",
+    "categoryName": "Health",
     "items": [
-      {
-        "name": "Passport, Visa, Plane Tickets (OGs + Copies)",
-        "quantity": "Multiple",
-        "buyLocation": "Have",
-        "costInFrance": "",
-        "itemType": "Document",
-        "storeType": "Official"
-      },
-      {
-        "name": "University Letters, Accommodation Contract",
-        "quantity": "OGs + Copies",
-        "buyLocation": "Have",
-        "costInFrance": "",
-        "itemType": "Document",
-        "storeType": "Official"
-      },
-      {
-        "name": "Birth Certificate, Driver's License (OGs + Copies)",
-        "quantity": "Multiple",
-        "buyLocation": "Have",
-        "costInFrance": "",
-        "itemType": "Document",
-        "storeType": "Official"
-      },
-      {
-        "name": "Passport-sized Photographs",
-        "quantity": "20-30",
-        "buyLocation": "India",
-        "costInFrance": "",
-        "itemType": "Document",
-        "storeType": "Photo Studio"
-      },
-      {
-        "name": "Socket Adapters & Extension Cord",
-        "quantity": "3 + 1",
-        "buyLocation": "India/France",
-        "costInFrance": "30",
-        "itemType": "Accessory",
-        "storeType": "Electronics Store"
-      },
-      {
-        "name": "External Hard Drive / USB Drive",
-        "quantity": "1",
-        "buyLocation": "India",
-        "costInFrance": "",
-        "itemType": "Storage",
-        "storeType": "Electronics Store"
-      },
       {
         "name": "Personal Prescriptions (6 months) w/ Doctor's Note",
         "quantity": "As prescribed",
@@ -548,6 +500,128 @@
         "costInFrance": "",
         "itemType": "First Aid",
         "storeType": "Pharmacy"
+      }
+    ]
+  },
+  {
+    "categoryName": "Electronics / Gadgets",
+    "items": [
+      {
+        "name": "HDD (1 TB)",
+        "quantity": "1",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Storage",
+        "storeType": "Electronics Store"
+      },
+      {
+        "name": "France Socket Adapter",
+        "quantity": "2",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Accessory",
+        "storeType": "Electronics/Travel Store"
+      },
+      {
+        "name": "Power Bank",
+        "quantity": "1",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Accessory",
+        "storeType": "Electronics Store"
+      },
+      {
+        "name": "Laptop & Charger",
+        "quantity": "1",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Gadget",
+        "storeType": "Electronics Store"
+      },
+      {
+        "name": "Extension Box",
+        "quantity": "1",
+        "buyLocation": "India/France",
+        "costInFrance": "30",
+        "itemType": "Accessory",
+        "storeType": "Electronics/Home Goods"
+      },
+      {
+        "name": "Earphones + Ear pods",
+        "quantity": "1 (each)",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Accessory",
+        "storeType": "Electronics Store"
+      },
+      {
+        "name": "Batteries",
+        "quantity": "As needed",
+        "buyLocation": "France",
+        "costInFrance": "7 (10pack)",
+        "itemType": "Consumable",
+        "storeType": "Supermarket/Electronics"
+      }
+    ]
+  },
+  {
+    "categoryName": "Documents (Originals + 4 Photocopy Sets)",
+    "items": [
+      {
+        "name": "Passport (Old & New)",
+        "quantity": "OG + 4 copies",
+        "buyLocation": "Have",
+        "costInFrance": "",
+        "itemType": "Document",
+        "storeType": "Official"
+      },
+      {
+        "name": "Flight Tickets",
+        "quantity": "OG + 4 copies",
+        "buyLocation": "Have",
+        "costInFrance": "",
+        "itemType": "Document",
+        "storeType": "Official"
+      },
+      {
+        "name": "ALL Visa Documents",
+        "quantity": "All OGs+ 4 copies",
+        "buyLocation": "Have",
+        "costInFrance": "",
+        "itemType": "Document",
+        "storeType": "Official"
+      },
+      {
+        "name": "ALL Education Documents",
+        "quantity": "All OGs + 4 copies",
+        "buyLocation": "Have",
+        "costInFrance": "",
+        "itemType": "Document",
+        "storeType": "Official"
+      },
+      {
+        "name": "Passport size photos",
+        "quantity": "50",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Document",
+        "storeType": "Photo Studio"
+      },
+      {
+        "name": "International Vaxx Certificate",
+        "quantity": "OG + 4 copies",
+        "buyLocation": "Have",
+        "costInFrance": "",
+        "itemType": "Document",
+        "storeType": "Official"
+      },
+      {
+        "name": "Duly Signed Tenancy Agreement",
+        "quantity": "OG + 2 copies",
+        "buyLocation": "Have",
+        "costInFrance": "",
+        "itemType": "Document",
+        "storeType": "Official"
       }
     ]
   }
