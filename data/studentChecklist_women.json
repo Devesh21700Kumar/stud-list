@@ -1,0 +1,272 @@
+[
+  {
+    "categoryName": "Kitchen Essentials",
+    "items": [
+      {
+        "name": "Vegetable Chopper/Dicer",
+        "quantity": "1",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Gadget",
+        "storeType": "Home Goods Store"
+      },
+      {
+        "name": "Rice Cooker",
+        "quantity": "1",
+        "buyLocation": "France",
+        "costInFrance": "",
+        "itemType": "Appliance",
+        "storeType": "Electronics/Home Goods"
+      },
+      {
+        "name": "Food Storage Container(s) - freezer safe",
+        "quantity": "4",
+        "buyLocation": "India",
+        "costInFrance": "30",
+        "itemType": "Container",
+        "storeType": "Supermarket/Home Goods"
+      }
+    ]
+  },
+  {
+    "categoryName": "Cooking Essentials",
+    "items": [
+      {
+        "name": "Turmeric",
+        "quantity": "250 gms",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Spice",
+        "storeType": "Supermarket/Grocery"
+      },
+      {
+        "name": "Salt/Pepper",
+        "quantity": "As needed",
+        "buyLocation": "France",
+        "costInFrance": "3/kg",
+        "itemType": "Seasoning",
+        "storeType": "Supermarket/Grocery"
+      }
+    ]
+  },
+  {
+    "categoryName": "Toiletries/Personal Care",
+    "items": [
+      {
+        "name": "Microfibre Bath Towels",
+        "quantity": "2",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Bathroom",
+        "storeType": "Home Goods/Department Store"
+      },
+      {
+        "name": "Hairbrush/Comb",
+        "quantity": "2",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Personal Care",
+        "storeType": "Supermarket/Pharmacy"
+      },
+      {
+        "name": "Toothbrush & Toothpaste",
+        "quantity": "Pack of 3-10",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Oral Care",
+        "storeType": "Supermarket/Pharmacy"
+      },
+      {
+        "name": "Shampoo & Conditioner",
+        "quantity": "Sachets/Bottle",
+        "buyLocation": "India/France",
+        "costInFrance": "Vary",
+        "itemType": "Hair Care",
+        "storeType": "Supermarket/Pharmacy"
+      },
+      {
+        "name": "Makeup & Skincare",
+        "quantity": "As needed",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Skincare",
+        "storeType": "Department Store/Pharmacy"
+      },
+      {
+        "name": "Makeup Remover/Wipes",
+        "quantity": "1-2 packs",
+        "buyLocation": "India/France",
+        "costInFrance": "",
+        "itemType": "Skincare",
+        "storeType": "Supermarket/Pharmacy"
+      },
+      {
+        "name": "Curling iron, Straightener, etc.",
+        "quantity": "1",
+        "buyLocation": "India/France",
+        "costInFrance": "Vary",
+        "itemType": "Appliance",
+        "storeType": "Electronics/Home Goods"
+      },
+      {
+        "name": "Hair Ties & Claw Clips",
+        "quantity": "As needed",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Accessory",
+        "storeType": "Supermarket/Clothing Store"
+      },
+      {
+        "name": "Sanitary Products",
+        "quantity": "As needed",
+        "buyLocation": "India/France",
+        "costInFrance": "",
+        "itemType": "Hygiene",
+        "storeType": "Supermarket/Pharmacy"
+      },
+      {
+        "name": "Perfume/Deodorant",
+        "quantity": "1-2",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Fragrance",
+        "storeType": "Department Store/Pharmacy"
+      }
+    ]
+  },
+  {
+    "categoryName": "Medications (Bring Prescriptions)",
+    "items": [
+      {
+        "name": "Bandaids",
+        "quantity": "100-300",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "First Aid",
+        "storeType": "Pharmacy"
+      },
+      {
+        "name": "Painkillers (Paracetamol, Ibuprofen)",
+        "quantity": "5 packs",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "First Aid",
+        "storeType": "Pharmacy"
+      }
+    ]
+  },
+  {
+    "categoryName": "Clothing/Accessories",
+    "items": [
+      {
+        "name": "Trousers / Pants / Jeans",
+        "quantity": "5-6 pairs",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Bottoms",
+        "storeType": "Clothing Store"
+      },
+      {
+        "name": "Leggings / Track Pants",
+        "quantity": "4 pairs",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Bottoms",
+        "storeType": "Clothing Store"
+      },
+      {
+        "name": "Dresses / Skirts",
+        "quantity": "3-4",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Outfits",
+        "storeType": "Clothing Store"
+      },
+      {
+        "name": "Tops / Kurtas",
+        "quantity": "8-10",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Tops",
+        "storeType": "Clothing Store"
+      },
+      {
+        "name": "Hoodies & Sweaters",
+        "quantity": "3-4 each",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Tops",
+        "storeType": "Clothing Store"
+      },
+      {
+        "name": "Light Jacket (Water Resistant)",
+        "quantity": "1",
+        "buyLocation": "France",
+        "costInFrance": "35-85",
+        "itemType": "Outerwear",
+        "storeType": "Clothing/Sports Store"
+      },
+      {
+        "name": "Heavy Coat",
+        "quantity": "1",
+        "buyLocation": "France",
+        "costInFrance": "45-90",
+        "itemType": "Outerwear",
+        "storeType": "Clothing Store"
+      },
+      {
+        "name": "Saree / Formal Suit / Festive Wear",
+        "quantity": "2 sets",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Formal Wear",
+        "storeType": "Clothing Store"
+      },
+      {
+        "name": "Walking/Running Shoes",
+        "quantity": "1 pair",
+        "buyLocation": "India/France",
+        "costInFrance": "",
+        "itemType": "Footwear",
+        "storeType": "Shoe/Sports Store"
+      },
+      {
+        "name": "Heels / Flats",
+        "quantity": "2 pairs",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Footwear",
+        "storeType": "Shoe Store"
+      }
+    ]
+  },
+  {
+    "categoryName": "Electronics / Gadgets",
+    "items": [
+      {
+        "name": "France Socket Adapter",
+        "quantity": "2",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Accessory",
+        "storeType": "Electronics/Travel Store"
+      },
+      {
+        "name": "Power Bank",
+        "quantity": "1",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Accessory",
+        "storeType": "Electronics Store"
+      },
+      {
+        "name": "Laptop & Charger",
+        "quantity": "1",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Gadget",
+        "storeType": "Electronics Store"
+      }
+    ]
+  }
+]
