@@ -1,258 +1,25 @@
 [
   {
-    "categoryName": "Kitchen Essentials",
+    "categoryName": "Carry-On / Hand Luggage Essentials",
     "items": [
       {
-        "name": "Vegetable Chopper/Dicer",
-        "quantity": "1",
-        "buyLocation": "India",
+        "name": "Passport, Visa, Boarding Pass",
+        "quantity": "In a secure travel wallet",
+        "buyLocation": "Have",
+        "costInFrance": "",
+        "itemType": "Document",
+        "storeType": "Personal"
+      },
+      {
+        "name": "Phone, Power Bank, All Charging Cables",
+        "quantity": "1 each",
+        "buyLocation": "Have",
         "costInFrance": "",
         "itemType": "Gadget",
-        "storeType": "Home Goods Store"
+        "storeType": "Personal"
       },
       {
-        "name": "Rice Cooker",
-        "quantity": "1",
-        "buyLocation": "France",
-        "costInFrance": "",
-        "itemType": "Appliance",
-        "storeType": "Electronics/Home Goods"
-      },
-      {
-        "name": "Food Storage Container(s) - freezer safe",
-        "quantity": "4",
-        "buyLocation": "India",
-        "costInFrance": "30",
-        "itemType": "Container",
-        "storeType": "Supermarket/Home Goods"
-      }
-    ]
-  },
-  {
-    "categoryName": "Cooking Essentials",
-    "items": [
-      {
-        "name": "Turmeric",
-        "quantity": "250 gms",
-        "buyLocation": "India",
-        "costInFrance": "",
-        "itemType": "Spice",
-        "storeType": "Supermarket/Grocery"
-      },
-      {
-        "name": "Salt/Pepper",
-        "quantity": "As needed",
-        "buyLocation": "France",
-        "costInFrance": "3/kg",
-        "itemType": "Seasoning",
-        "storeType": "Supermarket/Grocery"
-      }
-    ]
-  },
-  {
-    "categoryName": "Toiletries/Personal Care",
-    "items": [
-      {
-        "name": "Microfibre Bath Towels",
-        "quantity": "2",
-        "buyLocation": "India",
-        "costInFrance": "",
-        "itemType": "Bathroom",
-        "storeType": "Home Goods/Department Store"
-      },
-      {
-        "name": "Hairbrush/Comb",
-        "quantity": "2",
-        "buyLocation": "India",
-        "costInFrance": "",
-        "itemType": "Personal Care",
-        "storeType": "Supermarket/Pharmacy"
-      },
-      {
-        "name": "Toothbrush & Toothpaste",
-        "quantity": "Pack of 3-10",
-        "buyLocation": "India",
-        "costInFrance": "",
-        "itemType": "Oral Care",
-        "storeType": "Supermarket/Pharmacy"
-      },
-      {
-        "name": "Shampoo & Conditioner",
-        "quantity": "Sachets/Bottle",
-        "buyLocation": "India/France",
-        "costInFrance": "Vary",
-        "itemType": "Hair Care",
-        "storeType": "Supermarket/Pharmacy"
-      },
-      {
-        "name": "Makeup & Skincare",
-        "quantity": "As needed",
-        "buyLocation": "India",
-        "costInFrance": "",
-        "itemType": "Skincare",
-        "storeType": "Department Store/Pharmacy"
-      },
-      {
-        "name": "Makeup Remover/Wipes",
-        "quantity": "1-2 packs",
-        "buyLocation": "India/France",
-        "costInFrance": "",
-        "itemType": "Skincare",
-        "storeType": "Supermarket/Pharmacy"
-      },
-      {
-        "name": "Curling iron, Straightener, etc.",
-        "quantity": "1",
-        "buyLocation": "India/France",
-        "costInFrance": "Vary",
-        "itemType": "Appliance",
-        "storeType": "Electronics/Home Goods"
-      },
-      {
-        "name": "Hair Ties & Claw Clips",
-        "quantity": "As needed",
-        "buyLocation": "India",
-        "costInFrance": "",
-        "itemType": "Accessory",
-        "storeType": "Supermarket/Clothing Store"
-      },
-      {
-        "name": "Sanitary Products",
-        "quantity": "As needed",
-        "buyLocation": "India/France",
-        "costInFrance": "",
-        "itemType": "Hygiene",
-        "storeType": "Supermarket/Pharmacy"
-      },
-      {
-        "name": "Perfume/Deodorant",
-        "quantity": "1-2",
-        "buyLocation": "India",
-        "costInFrance": "",
-        "itemType": "Fragrance",
-        "storeType": "Department Store/Pharmacy"
-      }
-    ]
-  },
-  {
-    "categoryName": "Medications (Bring Prescriptions)",
-    "items": [
-      {
-        "name": "Bandaids",
-        "quantity": "100-300",
-        "buyLocation": "India",
-        "costInFrance": "",
-        "itemType": "First Aid",
-        "storeType": "Pharmacy"
-      },
-      {
-        "name": "Painkillers (Paracetamol, Ibuprofen)",
-        "quantity": "5 packs",
-        "buyLocation": "India",
-        "costInFrance": "",
-        "itemType": "First Aid",
-        "storeType": "Pharmacy"
-      }
-    ]
-  },
-  {
-    "categoryName": "Clothing/Accessories",
-    "items": [
-      {
-        "name": "Trousers / Pants / Jeans",
-        "quantity": "5-6 pairs",
-        "buyLocation": "India",
-        "costInFrance": "",
-        "itemType": "Bottoms",
-        "storeType": "Clothing Store"
-      },
-      {
-        "name": "Leggings / Track Pants",
-        "quantity": "4 pairs",
-        "buyLocation": "India",
-        "costInFrance": "",
-        "itemType": "Bottoms",
-        "storeType": "Clothing Store"
-      },
-      {
-        "name": "Dresses / Skirts",
-        "quantity": "3-4",
-        "buyLocation": "India",
-        "costInFrance": "",
-        "itemType": "Outfits",
-        "storeType": "Clothing Store"
-      },
-      {
-        "name": "Tops / Kurtas",
-        "quantity": "8-10",
-        "buyLocation": "India",
-        "costInFrance": "",
-        "itemType": "Tops",
-        "storeType": "Clothing Store"
-      },
-      {
-        "name": "Hoodies & Sweaters",
-        "quantity": "3-4 each",
-        "buyLocation": "India",
-        "costInFrance": "",
-        "itemType": "Tops",
-        "storeType": "Clothing Store"
-      },
-      {
-        "name": "Light Jacket (Water Resistant)",
-        "quantity": "1",
-        "buyLocation": "France",
-        "costInFrance": "35-85",
-        "itemType": "Outerwear",
-        "storeType": "Clothing/Sports Store"
-      },
-      {
-        "name": "Heavy Coat",
-        "quantity": "1",
-        "buyLocation": "France",
-        "costInFrance": "45-90",
-        "itemType": "Outerwear",
-        "storeType": "Clothing Store"
-      },
-      {
-        "name": "Saree / Formal Suit / Festive Wear",
-        "quantity": "2 sets",
-        "buyLocation": "India",
-        "costInFrance": "",
-        "itemType": "Formal Wear",
-        "storeType": "Clothing Store"
-      },
-      {
-        "name": "Walking/Running Shoes",
-        "quantity": "1 pair",
-        "buyLocation": "India/France",
-        "costInFrance": "",
-        "itemType": "Footwear",
-        "storeType": "Shoe/Sports Store"
-      },
-      {
-        "name": "Heels / Flats",
-        "quantity": "2 pairs",
-        "buyLocation": "India",
-        "costInFrance": "",
-        "itemType": "Footwear",
-        "storeType": "Shoe Store"
-      }
-    ]
-  },
-  {
-    "categoryName": "Electronics / Gadgets",
-    "items": [
-      {
-        "name": "France Socket Adapter",
-        "quantity": "2",
-        "buyLocation": "India",
-        "costInFrance": "",
-        "itemType": "Accessory",
-        "storeType": "Electronics/Travel Store"
-      },
-      {
-        "name": "Power Bank",
+        "name": "Universal Travel Adapter",
         "quantity": "1",
         "buyLocation": "India",
         "costInFrance": "",
@@ -262,10 +29,525 @@
       {
         "name": "Laptop & Charger",
         "quantity": "1",
-        "buyLocation": "India",
+        "buyLocation": "Have",
         "costInFrance": "",
         "itemType": "Gadget",
+        "storeType": "Personal"
+      },
+      {
+        "name": "Essential Medications & Prescription",
+        "quantity": "For a few days",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Health",
+        "storeType": "Pharmacy"
+      },
+      {
+        "name": "Change of Clothes & Innerwear",
+        "quantity": "1 set",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Clothing",
+        "storeType": "Personal"
+      },
+      {
+        "name": "Travel-size Toiletries (under 100ml)",
+        "quantity": "Toothbrush, paste, face wash, moisturizer",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Hygiene",
+        "storeType": "Supermarket"
+      },
+      {
+        "name": "Scarf / Shawl (can double as a blanket)",
+        "quantity": "1",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Accessory",
+        "storeType": "Clothing Store"
+      },
+      {
+        "name": "Neck Pillow, Eye Mask, Ear Plugs",
+        "quantity": "1 set",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Comfort",
+        "storeType": "Travel Store"
+      },
+      {
+        "name": "Empty Water Bottle (to fill after security)",
+        "quantity": "1",
+        "buyLocation": "Have",
+        "costInFrance": "",
+        "itemType": "Container",
+        "storeType": "Personal"
+      },
+      {
+        "name": "Snacks (non-liquid)",
+        "quantity": "A few",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Snack",
+        "storeType": "Supermarket"
+      }
+    ]
+  },
+  {
+    "categoryName": "Pantry Staples & Spices (Bring from India)",
+    "items": [
+      {
+        "name": "Turmeric, Chilli, Coriander & Cumin Powder",
+        "quantity": "250g each",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Spice",
+        "storeType": "Grocery"
+      },
+      {
+        "name": "Garam Masala, Kitchen King, Pav Bhaji Masala",
+        "quantity": "1 pack each",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Spice Blend",
+        "storeType": "Grocery"
+      },
+      {
+        "name": "Mustard Seeds, Cumin Seeds, Fennel Seeds",
+        "quantity": "1 pack each",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Spice",
+        "storeType": "Grocery"
+      },
+      {
+        "name": "Asafoetida (Hing), Cardamom, Cloves, Cinnamon",
+        "quantity": "1 small pack each",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Spice",
+        "storeType": "Grocery"
+      },
+      {
+        "name": "Toor Dal, Moong Dal, Urad Dal",
+        "quantity": "500g each",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Lentil",
+        "storeType": "Grocery"
+      },
+      {
+        "name": "Poha (Flattened Rice)",
+        "quantity": "1 pack",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Pantry Staple",
+        "storeType": "Grocery"
+      },
+      {
+        "name": "Tea Bags / Loose Tea & Coffee Powder",
+        "quantity": "Starter amount",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Beverage",
+        "storeType": "Grocery"
+      }
+    ]
+  },
+  {
+    "categoryName": "Kitchen Setup (Buy in France)",
+    "items": [
+      {
+        "name": "Rice Cooker / Small Multi-cooker",
+        "quantity": "1",
+        "buyLocation": "France",
+        "costInFrance": "30-50",
+        "itemType": "Appliance",
+        "storeType": "Home Goods"
+      },
+      {
+        "name": "Electric Kettle",
+        "quantity": "1",
+        "buyLocation": "France",
+        "costInFrance": "15-25",
+        "itemType": "Appliance",
+        "storeType": "Home Goods"
+      },
+      {
+        "name": "Saucepan & Frying Pan (Induction compatible)",
+        "quantity": "1 of each",
+        "buyLocation": "France",
+        "costInFrance": "28-30",
+        "itemType": "Cookware",
+        "storeType": "Home Goods"
+      },
+      {
+        "name": "Plates, Bowls, Mugs, Glasses",
+        "quantity": "2-4 of each",
+        "buyLocation": "France",
+        "costInFrance": "19 (Set)",
+        "itemType": "Tableware",
+        "storeType": "Home Goods"
+      },
+      {
+        "name": "Cutlery & Utensil Set (Spoons, forks, knives, spatula)",
+        "quantity": "1 set",
+        "buyLocation": "France",
+        "costInFrance": "16-25",
+        "itemType": "Tableware",
+        "storeType": "Home Goods"
+      },
+      {
+        "name": "Knives (Chef's, Paring) & Chopping Board",
+        "quantity": "1 set",
+        "buyLocation": "France",
+        "costInFrance": "20-35",
+        "itemType": "Utensil",
+        "storeType": "Home Goods"
+      },
+      {
+        "name": "Food Containers, Cling Film, Foil, Ziplock Bags",
+        "quantity": "1 pack each",
+        "buyLocation": "France",
+        "costInFrance": "",
+        "itemType": "Storage",
+        "storeType": "Supermarket"
+      }
+    ]
+  },
+  {
+    "categoryName": "Toiletries: Skincare & Cosmetics",
+    "items": [
+      {
+        "name": "Face Wash, Toner, Serum, Moisturizer",
+        "quantity": "1 each",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Skincare",
+        "storeType": "Pharmacy"
+      },
+      {
+        "name": "Sunblock (Face & Body) & Lip Balm with SPF",
+        "quantity": "1 each",
+        "buyLocation": "India/France",
+        "costInFrance": "",
+        "itemType": "Skincare",
+        "storeType": "Pharmacy"
+      },
+      {
+        "name": "Foundation, Concealer, Powder, Blush, Bronzer",
+        "quantity": "As needed",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Cosmetics",
+        "storeType": "Beauty Store"
+      },
+      {
+        "name": "Mascara, Eyeliner, Eyeshadow Palette, Brow Pencil",
+        "quantity": "As needed",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Cosmetics",
+        "storeType": "Beauty Store"
+      },
+      {
+        "name": "Makeup Brushes, Sponges, & Brush Cleaner",
+        "quantity": "1 set",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Tool",
+        "storeType": "Beauty Store"
+      },
+      {
+        "name": "Makeup Remover, Micellar Water & Cotton Pads",
+        "quantity": "1 pack",
+        "buyLocation": "India/France",
+        "costInFrance": "",
+        "itemType": "Skincare",
+        "storeType": "Pharmacy"
+      }
+    ]
+  },
+  {
+    "categoryName": "Toiletries: Hair, Body & Hygiene",
+    "items": [
+      {
+        "name": "Shampoo, Conditioner, Hair Mask, Hair Oil",
+        "quantity": "1 each",
+        "buyLocation": "India/France",
+        "costInFrance": "Vary",
+        "itemType": "Hair Care",
+        "storeType": "Supermarket"
+      },
+      {
+        "name": "Heat Protectant Spray, Dry Shampoo, Hairspray",
+        "quantity": "1 each",
+        "buyLocation": "France",
+        "costInFrance": "",
+        "itemType": "Hair Care",
+        "storeType": "Supermarket"
+      },
+      {
+        "name": "Body Wash, Body Scrub, Body Lotion, Loofah",
+        "quantity": "1 each",
+        "buyLocation": "India/France",
+        "costInFrance": "",
+        "itemType": "Body Care",
+        "storeType": "Supermarket"
+      },
+      {
+        "name": "Toothbrush, Toothpaste, Floss, Mouthwash",
+        "quantity": "Multiple",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Oral Care",
+        "storeType": "Pharmacy"
+      },
+      {
+        "name": "Sanitary Products (Pads, Tampons, Liners, Cups)",
+        "quantity": "As needed",
+        "buyLocation": "India/France",
+        "costInFrance": "",
+        "itemType": "Hygiene",
+        "storeType": "Pharmacy"
+      },
+      {
+        "name": "Perfume, Deodorant, Body Mist",
+        "quantity": "1-2",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Fragrance",
+        "storeType": "Department Store"
+      },
+      {
+        "name": "Nail Cutter, Filer, Tweezers, Small Scissors",
+        "quantity": "1 set",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Grooming",
+        "storeType": "Pharmacy"
+      },
+      {
+        "name": "Razors / Wax Strips / Epilator",
+        "quantity": "1",
+        "buyLocation": "India/France",
+        "costInFrance": "",
+        "itemType": "Grooming",
+        "storeType": "Supermarket"
+      }
+    ]
+  },
+  {
+    "categoryName": "Clothing, Footwear & Accessories",
+    "items": [
+      {
+        "name": "Casual Tops, T-shirts, Blouses, Kurtas",
+        "quantity": "10-12",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Tops",
+        "storeType": "Clothing Store"
+      },
+      {
+        "name": "Sweaters, Cardigans, Hoodies",
+        "quantity": "5-6",
+        "buyLocation": "India/France",
+        "costInFrance": "",
+        "itemType": "Tops",
+        "storeType": "Clothing Store"
+      },
+      {
+        "name": "Jeans, Trousers, Leggings",
+        "quantity": "6-7 pairs",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Bottoms",
+        "storeType": "Clothing Store"
+      },
+      {
+        "name": "Formal Blazer, Blouses, Trousers",
+        "quantity": "2-3 outfits",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Formal Wear",
+        "storeType": "Clothing Store"
+      },
+      {
+        "name": "Dresses (Casual, Formal), Skirts",
+        "quantity": "4-5",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Outfits",
+        "storeType": "Clothing Store"
+      },
+      {
+        "name": "Saree / Festive Wear Sets",
+        "quantity": "2-3",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Ethnic Wear",
+        "storeType": "Clothing Store"
+      },
+      {
+        "name": "Light Rain Jacket & Heavy Winter Coat",
+        "quantity": "1 each",
+        "buyLocation": "France",
+        "costInFrance": "35-90",
+        "itemType": "Outerwear",
+        "storeType": "Clothing Store"
+      },
+      {
+        "name": "Sneakers, Boots, Flats, Heels, Rain Boots",
+        "quantity": "1 pair each",
+        "buyLocation": "India/France",
+        "costInFrance": "",
+        "itemType": "Footwear",
+        "storeType": "Shoe Store"
+      },
+      {
+        "name": "Handbags (Tote, Crossbody), Backpack",
+        "quantity": "3",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Accessory",
+        "storeType": "Accessory Store"
+      },
+      {
+        "name": "Scarves, Belts, Gloves, Beanie, Sunglasses",
+        "quantity": "As needed",
+        "buyLocation": "India/France",
+        "costInFrance": "",
+        "itemType": "Accessory",
+        "storeType": "Accessory Store"
+      }
+    ]
+  },
+  {
+    "categoryName": "Study, Home & Cleaning",
+    "items": [
+      {
+        "name": "Bed Linens, Duvet, Pillows",
+        "quantity": "1-2 sets",
+        "buyLocation": "France",
+        "costInFrance": "50-80 (all)",
+        "itemType": "Bedding",
+        "storeType": "Home Goods Store"
+      },
+      {
+        "name": "Bath, Hand, and Kitchen Towels",
+        "quantity": "2 of each",
+        "buyLocation": "France",
+        "costInFrance": "",
+        "itemType": "Linens",
+        "storeType": "Home Goods Store"
+      },
+      {
+        "name": "Laundry Bag/Hamper & Hangers",
+        "quantity": "1 + pack of 10",
+        "buyLocation": "France",
+        "costInFrance": "",
+        "itemType": "Household",
+        "storeType": "Home Goods Store"
+      },
+      {
+        "name": "Laundry Detergent, Dish Soap, Sponges",
+        "quantity": "1 each",
+        "buyLocation": "France",
+        "costInFrance": "",
+        "itemType": "Cleaning",
+        "storeType": "Supermarket"
+      },
+      {
+        "name": "All-Purpose Cleaner, Microfiber Cloths, Trash Bags",
+        "quantity": "1 each",
+        "buyLocation": "France",
+        "costInFrance": "",
+        "itemType": "Cleaning",
+        "storeType": "Supermarket"
+      },
+      {
+        "name": "Notebooks, Planner, Pens, Highlighters",
+        "quantity": "Multiple",
+        "buyLocation": "India/France",
+        "costInFrance": "",
+        "itemType": "Stationery",
+        "storeType": "Stationery Store"
+      },
+      {
+        "name": "Small Decor (Photos, fairy lights, small plant)",
+        "quantity": "As desired",
+        "buyLocation": "India/France",
+        "costInFrance": "",
+        "itemType": "Decor",
+        "storeType": "Home Goods"
+      }
+    ]
+  },
+  {
+    "categoryName": "Documents, Electronics & Health",
+    "items": [
+      {
+        "name": "Passport, Visa, Plane Tickets (OGs + Copies)",
+        "quantity": "Multiple",
+        "buyLocation": "Have",
+        "costInFrance": "",
+        "itemType": "Document",
+        "storeType": "Official"
+      },
+      {
+        "name": "University Letters, Accommodation Contract",
+        "quantity": "OGs + Copies",
+        "buyLocation": "Have",
+        "costInFrance": "",
+        "itemType": "Document",
+        "storeType": "Official"
+      },
+      {
+        "name": "Birth Certificate, Driver's License (OGs + Copies)",
+        "quantity": "Multiple",
+        "buyLocation": "Have",
+        "costInFrance": "",
+        "itemType": "Document",
+        "storeType": "Official"
+      },
+      {
+        "name": "Passport-sized Photographs",
+        "quantity": "20-30",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Document",
+        "storeType": "Photo Studio"
+      },
+      {
+        "name": "Socket Adapters & Extension Cord",
+        "quantity": "3 + 1",
+        "buyLocation": "India/France",
+        "costInFrance": "30",
+        "itemType": "Accessory",
         "storeType": "Electronics Store"
+      },
+      {
+        "name": "External Hard Drive / USB Drive",
+        "quantity": "1",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Storage",
+        "storeType": "Electronics Store"
+      },
+      {
+        "name": "Personal Prescriptions (6 months) w/ Doctor's Note",
+        "quantity": "As prescribed",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "Health",
+        "storeType": "Pharmacy"
+      },
+      {
+        "name": "First-Aid Kit (Painkillers, cramp relief, bandaids, antiseptic)",
+        "quantity": "1 kit",
+        "buyLocation": "India",
+        "costInFrance": "",
+        "itemType": "First Aid",
+        "storeType": "Pharmacy"
       }
     ]
   }
