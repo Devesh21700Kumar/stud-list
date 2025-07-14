@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { NextResponse } from 'next/server';
 import path from 'path';
 import { promises as fs } from 'fs';
@@ -5,9 +6,9 @@ import { Category } from '@/types';
 
 export async function GET(
   request: Request,
-  { params }: { params: { type: string } }
+  { params }: any
 ) {
-  const listType = params.type;
+  const listType = params?.type;
 
   // MODIFICATION: Add 'women' to the list of valid types
   if (listType !== 'general' && listType !== 'men' && listType !== 'women') {
